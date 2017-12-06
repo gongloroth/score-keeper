@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_bottom_margin">16dp</dimen>
+
+    <dimen name="button_bottom_margin">8dp</dimen>
+
+    <dimen name="small_icon_size">24dp</dimen>
+
+    <dimen name="padding_linear_layout">8dp</dimen>
+
+    <dimen name="layout_bottom_margin">16dp</dimen>
+
+    <dimen name="button_margin_sides">8dp</dimen>
+
+</resources>

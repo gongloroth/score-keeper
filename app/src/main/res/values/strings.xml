@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+
+    <string name="goal">Goal</string>
+    <string name="yellowcard">Yellowcard</string>
+    <string name="redcard">Redcard</string>
+    <string name="corner">Corner</string>
+</resources>
